@@ -1,4 +1,3 @@
-# MyBike landing page 
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
-    - [DEMO LINK](https://mikioooo.github.io/bike-landing/)
+# MyBike landing page designed for bike store
+built with HTML and SCSS
+- [DEMO LINK](https://mikioooo.github.io/bike-landing/)
